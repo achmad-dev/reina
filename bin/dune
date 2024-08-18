@@ -1,0 +1,4 @@
+(executable
+ (public_name reina)
+ (name main)
+ (libraries reina))

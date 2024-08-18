@@ -1,0 +1,6 @@
+# dune init project reina
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/alfazari/.cache/dune/db
+# Workspace root: /home/alfazari/projects/github/reina
+# Auto-detected concurrency: 4
